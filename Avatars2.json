@@ -1,4 +1,4 @@
-{
+{"avatars":{
   "male": {"mood":["happy", "sad", "surprised"]},
   "female": {"mood":["happy", "sad", "surprised"]},
   "human": {"mood":["happy", "sad", "surprised"]},
@@ -8,4 +8,4 @@
   "avataaars": {},
   "jdenticon": {},
   "gridy": {}
-}
+}}
