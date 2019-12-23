@@ -1,0 +1,11 @@
+{
+  "male": {"mood":['happy', 'sad', 'surprised']},
+  "female": {"mood":['happy', 'sad', 'surprised']},
+  "human": {"mood":['happy', 'sad', 'surprised']},
+  "identicon": {},
+  "initials": {},
+  "bottts": {},
+  "avataaars": {},
+  "jdenticon": {},
+  "gridy": {}
+}
