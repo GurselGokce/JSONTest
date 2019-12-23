@@ -7,5 +7,6 @@
   "bottts": {},
   "avataaars": {},
   "jdenticon": {},
-  "gridy": {}
+  "gridy": {},
+  "options": {"options":["male","female","human","identicon","initials","bottts","avataaars","jdenticon","gridy"]}
 }}
